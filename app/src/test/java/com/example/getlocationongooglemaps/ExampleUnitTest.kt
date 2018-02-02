@@ -1,4 +1,4 @@
-package com.econsormobile.getlocationongooglemaps
+package com.example.getlocationongooglemaps
 
 import org.junit.Test
 

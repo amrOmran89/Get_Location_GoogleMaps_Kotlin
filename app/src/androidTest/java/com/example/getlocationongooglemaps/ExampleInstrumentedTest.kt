@@ -1,4 +1,4 @@
-package com.econsormobile.getlocationongooglemaps
+package com.example.getlocationongooglemaps
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
